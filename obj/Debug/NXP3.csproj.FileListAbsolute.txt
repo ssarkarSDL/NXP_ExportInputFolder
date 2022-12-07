@@ -1,0 +1,14 @@
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3\bin\Debug\NXP3.exe.config
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3\bin\Debug\NXP3.exe
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3\bin\Debug\NXP3.pdb
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3\obj\Debug\NXP3.csprojAssemblyReference.cache
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3\obj\Debug\NXP3.csproj.CoreCompileInputs.cache
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3\obj\Debug\NXP3.exe
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3\obj\Debug\NXP3.pdb
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3\bin\Debug\System.ServiceModel.Primitives.dll
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3\bin\Debug\System.ServiceModel.Security.dll
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3\bin\Debug\System.ServiceModel.Primitives.pdb
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3\bin\Debug\System.ServiceModel.Security.pdb
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3\obj\Debug\NXP3.csproj.CopyComplete
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3\bin\Debug\log4net.dll
+C:\soumava\work\code\DOCS\nxp DOCS Export\Soumava code\NXP 3\NXP3\bin\Debug\log4net.xml

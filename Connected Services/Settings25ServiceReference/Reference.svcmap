@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReferenceGroup xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ID="3ed123e3-d3ea-470b-b9b5-c94515cfefda" xmlns="urn:schemas-microsoft-com:xml-wcfservicemap">
+  <ClientOptions>
+    <GenerateAsynchronousMethods>false</GenerateAsynchronousMethods>
+    <GenerateTaskBasedAsynchronousMethod>true</GenerateTaskBasedAsynchronousMethod>
+    <EnableDataBinding>true</EnableDataBinding>
+    <ExcludedTypes />
+    <ImportXmlTypes>false</ImportXmlTypes>
+    <GenerateInternalTypes>false</GenerateInternalTypes>
+    <GenerateMessageContracts>false</GenerateMessageContracts>
+    <NamespaceMappings />
+    <CollectionMappings />
+    <GenerateSerializableTypes>true</GenerateSerializableTypes>
+    <Serializer>Auto</Serializer>
+    <UseSerializerForFaults>true</UseSerializerForFaults>
+    <ReferenceAllAssemblies>true</ReferenceAllAssemblies>
+    <ReferencedAssemblies />
+    <ReferencedDataContractTypes />
+    <ServiceContractMappings />
+  </ClientOptions>
+  <MetadataSources>
+    <MetadataSource Address="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/settings.svc" Protocol="http" SourceId="1" />
+  </MetadataSources>
+  <Metadata>
+    <MetadataFile FileName="Settings.xsd" MetadataType="Schema" ID="fc3482b1-e62a-4667-9235-3b042bf26096" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/Settings.svc?xsd=xsd0" />
+    <MetadataFile FileName="Settings.wsdl" MetadataType="Wsdl" ID="5a2fcbfe-fad3-4cd6-b794-d513f04747e4" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/Settings.svc?wsdl=wsdl0" />
+    <MetadataFile FileName="Settings.disco" MetadataType="Disco" ID="09874b6e-f1fb-4c40-bc34-3be1e3c2c429" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/Settings.svc?disco" />
+    <MetadataFile FileName="Settings1.xsd" MetadataType="Schema" ID="5fcacc8e-7525-4c13-b9cd-14ac8551bf50" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/Settings.svc?xsd=xsd3" />
+    <MetadataFile FileName="Settings1.wsdl" MetadataType="Wsdl" ID="cbcb29b0-ed87-47d0-8dbe-c5942c5b61d7" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/Settings.svc?wsdl" />
+    <MetadataFile FileName="Settings2.xsd" MetadataType="Schema" ID="1d0c6cb8-d42e-4ccf-97c1-855c817349f2" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/Settings.svc?xsd=xsd4" />
+    <MetadataFile FileName="Settings3.xsd" MetadataType="Schema" ID="effc7f8f-88d2-441c-92e0-3e3f2b482dc2" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/Settings.svc?xsd=xsd1" />
+    <MetadataFile FileName="Settings4.xsd" MetadataType="Schema" ID="51a1e972-afd1-4f0d-a916-9a5982292d3e" SourceId="1" SourceUrl="https://nxpdev001.sdlproducts.com/ISHWS/Wcf/API25/Settings.svc?xsd=xsd2" />
+  </Metadata>
+  <Extensions>
+    <ExtensionFile FileName="configuration91.svcinfo" Name="configuration91.svcinfo" />
+    <ExtensionFile FileName="configuration.svcinfo" Name="configuration.svcinfo" />
+  </Extensions>
+</ReferenceGroup>
